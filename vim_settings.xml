@@ -6,21 +6,24 @@
       <file name="/Dummy.txt" timestamp="1492918501717">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/README.md" timestamp="1492919501231">
-        <mark key="'" line="13" column="0" />
+      <file name="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/README.md" timestamp="1492919744768">
+        <mark key="'" line="69" column="9" />
       </file>
-      <file name="$USER_HOME$/sideProject/escherpad/gittor/src/index.js" timestamp="1492918734955">
+      <file name="$USER_HOME$/sideProject/escherpad/gittor/src/index.js" timestamp="1492920099176">
         <mark key="'" line="35" column="0" />
-        <mark key="[" line="18" column="31" />
-        <mark key="]" line="18" column="19" />
-        <mark key="." line="18" column="19" />
-        <mark key="^" line="18" column="19" />
+        <mark key="[" line="5" column="37" />
+        <mark key="]" line="20" column="29" />
+        <mark key="." line="20" column="29" />
+        <mark key="^" line="20" column="19" />
       </file>
       <file name="$USER_HOME$/sideProject/escherpad/gittor/src/index.html" timestamp="1492918584363">
         <mark key="[" line="42" column="49" />
         <mark key="]" line="42" column="50" />
         <mark key="." line="42" column="50" />
         <mark key="^" line="42" column="50" />
+      </file>
+      <file name="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/src/github/github-api.spec.js" timestamp="1492920018498">
+        <mark key="'" line="79" column="44" />
       </file>
       <file name="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/src/github/github-api.js" timestamp="1492919116254">
         <mark key="'" line="190" column="0" />
@@ -43,45 +46,65 @@
       <jump line="71" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/README.md" />
       <jump line="65" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/README.md" />
       <jump line="60" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/README.md" />
-      <jump line="56" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/README.md" />
-      <jump line="54" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/README.md" />
-      <jump line="52" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/README.md" />
-      <jump line="47" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/README.md" />
-      <jump line="39" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/README.md" />
-      <jump line="35" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/README.md" />
-      <jump line="28" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/README.md" />
-      <jump line="25" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/README.md" />
       <jump line="13" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/README.md" />
       <jump line="3" column="10" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/src/github/github-api.js" />
       <jump line="190" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/src/github/github-api.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/README.md" />
+      <jump line="1" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/README.md" />
+      <jump line="4" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/README.md" />
+      <jump line="6" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/README.md" />
+      <jump line="9" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/README.md" />
+      <jump line="14" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/README.md" />
+      <jump line="16" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/README.md" />
+      <jump line="19" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/README.md" />
+      <jump line="25" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/README.md" />
+      <jump line="28" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/README.md" />
+      <jump line="35" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/README.md" />
+      <jump line="39" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/README.md" />
+      <jump line="47" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/README.md" />
+      <jump line="52" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/README.md" />
+      <jump line="54" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/README.md" />
+      <jump line="56" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/README.md" />
+      <jump line="69" column="9" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/README.md" />
+      <jump line="79" column="44" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/src/github/github-api.spec.js" />
     </jumps>
     <registers>
       <register name="0" type="4">
         <text>https://www.dropbox.com/developers/documentation/http/documentation</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyB7LypnYXBpPXtnYXBpfSovfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>https://www.dropbox.com/developers/documentation/http/documentation</text>
+        <text>b</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAvLyB7LypnaXRodWJhcGk9e2dpdGh1YmFwaX0qL30K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAvLyB7LypnYXBpPXtnYXBpfSovfQo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhZGQgdGhlIGdpdGh1YiBhcGkgaGVyZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>b</text>
       </register>
     </registers>
     <search>
