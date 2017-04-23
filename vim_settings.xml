@@ -12,12 +12,11 @@
       <file name="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/README.md" timestamp="1492919744768">
         <mark key="'" line="69" column="9" />
       </file>
-      <file name="$USER_HOME$/sideProject/escherpad/gittor/src/index.js" timestamp="1492920537651">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="6" column="6" />
-        <mark key="]" line="6" column="5" />
-        <mark key="." line="6" column="5" />
-        <mark key="^" line="6" column="5" />
+      <file name="$USER_HOME$/sideProject/escherpad/gittor/src/index.js" timestamp="1492935037093">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="10" column="68" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/sideProject/escherpad/gittor/src/index.html" timestamp="1492918584363">
         <mark key="[" line="42" column="49" />
@@ -25,9 +24,9 @@
         <mark key="." line="42" column="50" />
         <mark key="^" line="42" column="50" />
       </file>
-      <file name="$USER_HOME$/sideProject/escherpad/gittor/src/modules/dropbox.js" timestamp="1492933711071">
-        <mark key="[" line="2" column="69" />
-        <mark key="]" line="2" column="80" />
+      <file name="$USER_HOME$/sideProject/escherpad/gittor/src/modules/dropbox.js" timestamp="1492934718340">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="16" />
       </file>
       <file name="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/src/github/github-api.spec.js" timestamp="1492920018498">
         <mark key="'" line="79" column="44" />
@@ -91,8 +90,8 @@
       <jump line="12" column="7" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>eywa-dropbox</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHtHaXR9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>a</text>
@@ -101,22 +100,22 @@
         <text>main</text>
       </register>
       <register name="0" type="4">
-        <text>eywa-dropbox</text>
+        <text>import DropboxApi</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtHaXR9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyB7LypnaXRodWJhcGk9e2dpdGh1YmFwaX0qL30K</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAvLyB7LypnaXRodWJhcGk9e2dpdGh1YmFwaX0qL30K</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyB7LypnYXBpPXtnYXBpfSovfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAvLyB7LypnYXBpPXtnYXBpfSovfQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
@@ -125,6 +124,9 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhZGQgdGhlIGdpdGh1YiBhcGkgaGVyZQo=</text>
       </register>
       <register name=":" type="4">
