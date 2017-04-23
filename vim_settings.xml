@@ -3,18 +3,21 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1492918501717">
+      <file name="/Dummy.txt" timestamp="1492920707303">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/package.json" timestamp="1492920789719">
+        <mark key="'" line="12" column="7" />
       </file>
       <file name="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/README.md" timestamp="1492919744768">
         <mark key="'" line="69" column="9" />
       </file>
-      <file name="$USER_HOME$/sideProject/escherpad/gittor/src/index.js" timestamp="1492920099176">
+      <file name="$USER_HOME$/sideProject/escherpad/gittor/src/index.js" timestamp="1492920537651">
         <mark key="'" line="35" column="0" />
-        <mark key="[" line="5" column="37" />
-        <mark key="]" line="20" column="29" />
-        <mark key="." line="20" column="29" />
-        <mark key="^" line="20" column="19" />
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="5" />
+        <mark key="." line="6" column="5" />
+        <mark key="^" line="6" column="5" />
       </file>
       <file name="$USER_HOME$/sideProject/escherpad/gittor/src/index.html" timestamp="1492918584363">
         <mark key="[" line="42" column="49" />
@@ -22,13 +25,20 @@
         <mark key="." line="42" column="50" />
         <mark key="^" line="42" column="50" />
       </file>
+      <file name="$USER_HOME$/sideProject/escherpad/gittor/src/modules/dropbox.js" timestamp="1492921087634">
+        <mark key="[" line="2" column="69" />
+        <mark key="]" line="2" column="80" />
+      </file>
       <file name="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/src/github/github-api.spec.js" timestamp="1492920018498">
         <mark key="'" line="79" column="44" />
       </file>
-      <file name="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/src/github/github-api.js" timestamp="1492919116254">
-        <mark key="'" line="190" column="0" />
+      <file name="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/src/github/github-api.js" timestamp="1492920662627">
+        <mark key="'" line="21" column="9" />
         <mark key="[" line="2" column="9" />
         <mark key="]" line="2" column="75" />
+      </file>
+      <file name="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/dist/dropbox/dropbox-api.js" timestamp="1492920900972">
+        <mark key="'" line="38" column="14" />
       </file>
     </filemarks>
     <jumps>
@@ -68,16 +78,33 @@
       <jump line="56" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/README.md" />
       <jump line="69" column="9" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/README.md" />
       <jump line="79" column="44" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/src/github/github-api.spec.js" />
+      <jump line="54" column="41" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/dist/dropbox/dropbox-api.js" />
+      <jump line="56" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/dist/dropbox/dropbox-api.js" />
+      <jump line="58" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/dist/dropbox/dropbox-api.js" />
+      <jump line="63" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/dist/dropbox/dropbox-api.js" />
+      <jump line="64" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/dist/dropbox/dropbox-api.js" />
+      <jump line="73" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/dist/dropbox/dropbox-api.js" />
+      <jump line="38" column="14" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/dist/dropbox/dropbox-api.js" />
+      <jump line="62" column="2" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/src/github/github-api.js" />
+      <jump line="14" column="17" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/src/github/github-api.js" />
+      <jump line="21" column="9" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/src/github/github-api.js" />
+      <jump line="12" column="7" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/package.json" />
     </jumps>
     <registers>
+      <register name="&quot;" type="4">
+        <text>eywa-dropbox</text>
+      </register>
+      <register name="-" type="4">
+        <text>a</text>
+      </register>
+      <register name="/" type="4">
+        <text>main</text>
+      </register>
       <register name="0" type="4">
-        <text>https://www.dropbox.com/developers/documentation/http/documentation</text>
+        <text>eywa-dropbox</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>b</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAvLyB7LypnaXRodWJhcGk9e2dpdGh1YmFwaX0qL30K</text>
@@ -103,22 +130,29 @@
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="-" type="4">
-        <text>b</text>
-      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>main</last-search>
+      <last-offset />
+      <last-pattern>main</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>github</entry>
+        <entry>main</entry>
+      </history-search>
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
