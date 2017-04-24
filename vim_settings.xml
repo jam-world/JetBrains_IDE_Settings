@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1493070525534">
+      <file name="/Dummy.txt" timestamp="1493074531428">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sideProject/escherpad/gittor/src/views/MainEditorView.js" timestamp="1493000878465">
@@ -16,6 +16,11 @@
         <mark key="." line="11" column="16" />
       </file>
       <file name="$USER_HOME$/sideProject/escherpad/gittor/src/components/account-list-view/AccountEntryWithExpandableBrowser.js" timestamp="1493071036890" />
+      <file name="$USER_HOME$/sideProject/escherpad/gittor/src/components/editor-view/modals/save-to-backend/ConnectToService.js" timestamp="1493075030346">
+        <mark key="[" line="24" column="4" />
+        <mark key="]" line="24" column="4" />
+        <mark key="." line="24" column="4" />
+      </file>
       <file name="$USER_HOME$/sideProject/escherpad/gittor/src/oauth/DropboxRedirectLanding.js" timestamp="1493006757425">
         <mark key="'" line="0" column="0" />
       </file>
@@ -144,10 +149,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHRlc3Qgb2s=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHRlc3Qgb2s=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
@@ -156,31 +161,31 @@
         <text>RequestAccessToken</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJsaW5rIGdpdGh1YiIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPFJvdyBjb21wb25lbnQ9InAiPkFmdGVyIGF1dGhvcml6YXRpb24sIEdpdHRvciB3aWxsIGdhaW4gYWNjZXNzIHRvIHlvdXIgZ2l0aHViLjwvUm93Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgR2l0SHViQXBpIH0gZnJvbSAiLi9leXdhL2luZGV4IjsK</text>
+        <text encoding="base64">ICAgICAgICA8Um93IGNvbXBvbmVudD0icCI+QWZ0ZXIgYXV0aG9yaXphdGlvbiwgR2l0dG9yIHdpbGwgZ2FpbiBhY2Nlc3MgdG8geW91ciBkcm9wYm94LjwvUm93Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gdGVzdCBpbXBvcnQgdGhlIGRyb3Bib3ggYW5kIGdpdGh1YiBhcGkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YWxlcnQoImhpIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAiIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">aW1wb3J0IHsgR2l0SHViQXBpIH0gZnJvbSAiLi9leXdhL2luZGV4IjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gdGVzdCBpbXBvcnQgdGhlIGRyb3Bib3ggYW5kIGdpdGh1YiBhcGkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWxlcnQoImhpIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
