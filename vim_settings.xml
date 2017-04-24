@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1493074531428">
+      <file name="/Dummy.txt" timestamp="1493075846854">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sideProject/escherpad/gittor/src/views/MainEditorView.js" timestamp="1493000878465">
@@ -61,8 +61,8 @@
         <mark key="[" line="2" column="9" />
         <mark key="]" line="2" column="75" />
       </file>
-      <file name="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/dist/dropbox/dropbox-api.js" timestamp="1492920900972">
-        <mark key="'" line="38" column="14" />
+      <file name="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/dist/dropbox/dropbox-api.js" timestamp="1493076168760">
+        <mark key="'" line="170" column="37" />
       </file>
     </filemarks>
     <jumps>
@@ -146,6 +146,7 @@
       <jump line="7" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/src/oauth/DropboxRedirectLanding.js" />
       <jump line="4" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/src/oauth/DropboxRedirectLanding.js" />
       <jump line="0" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/src/oauth/DropboxRedirectLanding.js" />
+      <jump line="170" column="37" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/dist/dropbox/dropbox-api.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
