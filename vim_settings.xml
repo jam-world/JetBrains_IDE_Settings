@@ -6,20 +6,23 @@
       <file name="/Dummy.txt" timestamp="1492938820738">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/package.json" timestamp="1492920789719">
-        <mark key="'" line="12" column="7" />
-      </file>
       <file name="$USER_HOME$/sideProject/escherpad/gittor/src/views/MainEditorView.js" timestamp="1493000878465">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/README.md" timestamp="1492919744768">
-        <mark key="'" line="69" column="9" />
       </file>
       <file name="$USER_HOME$/sideProject/escherpad/gittor/src/modules/github.js" timestamp="1492937065202">
         <mark key="[" line="11" column="15" />
         <mark key="]" line="11" column="16" />
         <mark key="^" line="11" column="16" />
         <mark key="." line="11" column="16" />
+      </file>
+      <file name="$USER_HOME$/sideProject/escherpad/gittor/src/oauth/DropboxRedirectLanding.js" timestamp="1493006757425">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/package.json" timestamp="1492920789719">
+        <mark key="'" line="12" column="7" />
+      </file>
+      <file name="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/README.md" timestamp="1492919744768">
+        <mark key="'" line="69" column="9" />
       </file>
       <file name="$USER_HOME$/sideProject/escherpad/gittor/src/index.js" timestamp="1492939122329">
         <mark key="'" line="9" column="7" />
@@ -48,9 +51,6 @@
       </file>
       <file name="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/dist/dropbox/dropbox-api.js" timestamp="1492920900972">
         <mark key="'" line="38" column="14" />
-      </file>
-      <file name="$USER_HOME$/sideProject/escherpad/gittor/src/oauth/DropboxRedirectLanding.js" timestamp="1493006757425">
-        <mark key="'" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
