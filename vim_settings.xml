@@ -9,17 +9,20 @@
       <file name="$USER_HOME$/sideProject/escherpad/gittor/src/views/MainEditorView.js" timestamp="1493000878465">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/sideProject/escherpad/gittor/src/modules/github.js" timestamp="1492937065202">
-        <mark key="[" line="11" column="15" />
-        <mark key="]" line="11" column="16" />
-        <mark key="^" line="11" column="16" />
-        <mark key="." line="11" column="16" />
+      <file name="$USER_HOME$/sideProject/escherpad/gittor/src/modules/github.js" timestamp="1493081032259">
+        <mark key="[" line="7" column="52" />
+        <mark key="]" line="7" column="77" />
+        <mark key="^" line="8" column="47" />
+        <mark key="." line="8" column="47" />
       </file>
-      <file name="$USER_HOME$/sideProject/escherpad/gittor/src/components/account-list-view/AccountEntryWithExpandableBrowser.js" timestamp="1493071036890" />
       <file name="$USER_HOME$/sideProject/escherpad/gittor/src/components/editor-view/modals/save-to-backend/ConnectToService.js" timestamp="1493075030346">
         <mark key="[" line="24" column="4" />
         <mark key="]" line="24" column="4" />
         <mark key="." line="24" column="4" />
+      </file>
+      <file name="$USER_HOME$/sideProject/escherpad/gittor/src/oauth/dropbox-redirect.html" timestamp="1493081504370">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="13" column="6" />
       </file>
       <file name="$USER_HOME$/sideProject/escherpad/gittor/src/oauth/DropboxRedirectLanding.js" timestamp="1493006757425">
         <mark key="'" line="0" column="0" />
@@ -36,12 +39,8 @@
         <mark key="." line="10" column="40" />
         <mark key="^" line="10" column="47" />
       </file>
-      <file name="$USER_HOME$/sideProject/escherpad/gittor/src/index.js" timestamp="1492939122329">
+      <file name="$USER_HOME$/sideProject/escherpad/gittor/src/index.js" timestamp="1493081849831">
         <mark key="'" line="9" column="7" />
-        <mark key="[" line="5" column="37" />
-        <mark key="]" line="6" column="34" />
-        <mark key="." line="6" column="34" />
-        <mark key="^" line="6" column="34" />
       </file>
       <file name="$USER_HOME$/sideProject/escherpad/gittor/src/index.html" timestamp="1492918584363">
         <mark key="[" line="42" column="49" />
@@ -52,6 +51,11 @@
       <file name="$USER_HOME$/sideProject/escherpad/gittor/src/modules/dropbox.js" timestamp="1492934718340">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="16" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.html" timestamp="1493081521050">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/src/github/github-api.spec.js" timestamp="1492920018498">
         <mark key="'" line="79" column="44" />
@@ -149,29 +153,29 @@
       <jump line="170" column="37" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/dist/dropbox/dropbox-api.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aHR0cDovLzEwLjE1MC4yOC4yNTI6NDAwMC9vYXV0aC9naXRodWItcmVkaXJlY3QuY29tCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;kroubcx0l6slseu&quot;;</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
       </register>
       <register name="0" type="4">
-        <text>RequestAccessToken</text>
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgPG1ldGEgY2hhcnNldD0iVVRGLTgiPgogIDx0aXRsZT5HaXR0b3IgfCBEcm9wYm94IE9BdXRoMiBSZWRpcmVjdCBQYWdlPC90aXRsZT4KICA8c2NyaXB0IHNyYz0iLi4vdmVuZG9yLmpzIiB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPjwvc2NyaXB0PgogIDxzY3JpcHQgc3JjPSIuLi9hcHAuanMiIHR5cGU9InRleHQvamF2YXNjcmlwdCI+PC9zY3JpcHQ+CjwvaGVhZD4KPGJvZHk+CjxkaXYgaWQ9ImFwcCI+PC9kaXY+CjxsaW5rIGFzeW5jIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iaHR0cHM6Ly9jZG5qcy5jbG91ZGZsYXJlLmNvbS9hamF4L2xpYnMvS2FUZVgvMC41LjEva2F0ZXgubWluLmNzcyI+CjxsaW5rIGFzeW5jIGhyZWY9Imh0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vaWNvbj9mYW1pbHk9TWF0ZXJpYWwrSWNvbnMiIHJlbD0ic3R5bGVzaGVldCI+CjwvYm9keT4KPC9odG1sPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJsaW5rIGdpdGh1YiIpOwo=</text>
+        <text encoding="base64">aHR0cDovLzEwLjE1MC4yOC4yNTI6NDAwMC9vYXV0aC9naXRodWItcmVkaXJlY3QuY29tCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPFJvdyBjb21wb25lbnQ9InAiPkFmdGVyIGF1dGhvcml6YXRpb24sIEdpdHRvciB3aWxsIGdhaW4gYWNjZXNzIHRvIHlvdXIgZ2l0aHViLjwvUm93Pgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJsaW5rIGdpdGh1YiIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8Um93IGNvbXBvbmVudD0icCI+QWZ0ZXIgYXV0aG9yaXphdGlvbiwgR2l0dG9yIHdpbGwgZ2FpbiBhY2Nlc3MgdG8geW91ciBkcm9wYm94LjwvUm93Pgo=</text>
+        <text encoding="base64">ICAgICAgPFJvdyBjb21wb25lbnQ9InAiPkFmdGVyIGF1dGhvcml6YXRpb24sIEdpdHRvciB3aWxsIGdhaW4gYWNjZXNzIHRvIHlvdXIgZ2l0aHViLjwvUm93Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8Um93IGNvbXBvbmVudD0icCI+QWZ0ZXIgYXV0aG9yaXphdGlvbiwgR2l0dG9yIHdpbGwgZ2FpbiBhY2Nlc3MgdG8geW91ciBkcm9wYm94LjwvUm93Pgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -180,13 +184,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgR2l0SHViQXBpIH0gZnJvbSAiLi9leXdhL2luZGV4IjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gdGVzdCBpbXBvcnQgdGhlIGRyb3Bib3ggYW5kIGdpdGh1YiBhcGkK</text>
+        <text encoding="base64">aW1wb3J0IHsgR2l0SHViQXBpIH0gZnJvbSAiLi9leXdhL2luZGV4IjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YWxlcnQoImhpIik7Cg==</text>
+        <text encoding="base64">Ly8gdGVzdCBpbXBvcnQgdGhlIGRyb3Bib3ggYW5kIGdpdGh1YiBhcGkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
