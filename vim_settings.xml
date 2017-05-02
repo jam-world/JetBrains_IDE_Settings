@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1493098107912">
+      <file name="/Dummy.txt" timestamp="1493698106405">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sideProject/escherpad/gittor/src/views/MainEditorView.js" timestamp="1493000878465">
@@ -78,6 +78,11 @@
       </file>
       <file name="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/src/github/github-api.spec.js" timestamp="1492920018498">
         <mark key="'" line="79" column="44" />
+      </file>
+      <file name="$USER_HOME$/sideProject/escherpad/escherpad/desktop-app/src/client-common/core/app/bootstrap.js" timestamp="1493698662106">
+        <mark key="[" line="17" column="22" />
+        <mark key="]" line="17" column="22" />
+        <mark key="." line="17" column="22" />
       </file>
       <file name="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/dist/dropbox/dropbox-api.js" timestamp="1493076168760">
         <mark key="'" line="170" column="37" />
@@ -186,11 +191,11 @@
       <jump line="21" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/desktop-app/src/Ra_.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;kroubcx0l6slseu&quot;;</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
