@@ -47,6 +47,11 @@
       <file name="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/README.md" timestamp="1492919744768">
         <mark key="'" line="69" column="9" />
       </file>
+      <file name="$USER_HOME$/sideProject/escherpad/escherpad/desktop-app/src/client-common/core/file-list-view/index.js" timestamp="1493695545613">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/sideProject/escherpad/gittor/src/components/editor-view/modals/save-to-backend/ChooseAService.js" timestamp="1493070637457">
         <mark key="[" line="10" column="40" />
         <mark key="]" line="10" column="40" />
@@ -73,11 +78,6 @@
       </file>
       <file name="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/src/github/github-api.spec.js" timestamp="1492920018498">
         <mark key="'" line="79" column="44" />
-      </file>
-      <file name="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/src/github/github-api.js" timestamp="1492920662627">
-        <mark key="'" line="21" column="9" />
-        <mark key="[" line="2" column="9" />
-        <mark key="]" line="2" column="75" />
       </file>
       <file name="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/dist/dropbox/dropbox-api.js" timestamp="1493076168760">
         <mark key="'" line="170" column="37" />
@@ -202,22 +202,22 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aHR0cDovLzEwLjE1MC4yOC4yNTI6NDAwMC9vYXV0aC9naXRodWItcmVkaXJlY3QuY29tCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJsaW5rIGdpdGh1YiIpOwo=</text>
+        <text encoding="base64">aHR0cDovLzEwLjE1MC4yOC4yNTI6NDAwMC9vYXV0aC9naXRodWItcmVkaXJlY3QuY29tCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPFJvdyBjb21wb25lbnQ9InAiPkFmdGVyIGF1dGhvcml6YXRpb24sIEdpdHRvciB3aWxsIGdhaW4gYWNjZXNzIHRvIHlvdXIgZ2l0aHViLjwvUm93Pgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJsaW5rIGdpdGh1YiIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8Um93IGNvbXBvbmVudD0icCI+QWZ0ZXIgYXV0aG9yaXphdGlvbiwgR2l0dG9yIHdpbGwgZ2FpbiBhY2Nlc3MgdG8geW91ciBkcm9wYm94LjwvUm93Pgo=</text>
+        <text encoding="base64">ICAgICAgPFJvdyBjb21wb25lbnQ9InAiPkFmdGVyIGF1dGhvcml6YXRpb24sIEdpdHRvciB3aWxsIGdhaW4gYWNjZXNzIHRvIHlvdXIgZ2l0aHViLjwvUm93Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8Um93IGNvbXBvbmVudD0icCI+QWZ0ZXIgYXV0aG9yaXphdGlvbiwgR2l0dG9yIHdpbGwgZ2FpbiBhY2Nlc3MgdG8geW91ciBkcm9wYm94LjwvUm93Pgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
