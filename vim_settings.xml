@@ -9,6 +9,9 @@
       <file name="$USER_HOME$/sideProject/escherpad/gittor/src/views/MainEditorView.js" timestamp="1493000878465">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/sideProject/escherpad/gittor/src/components/account-list-view/AccountListItem.js" timestamp="1493684670003">
+        <mark key="'" line="41" column="0" />
+      </file>
       <file name="$USER_HOME$/sideProject/escherpad/gittor/src/modules/github.js" timestamp="1493081032259">
         <mark key="[" line="7" column="52" />
         <mark key="]" line="7" column="77" />
@@ -151,6 +154,9 @@
       <jump line="4" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/src/oauth/DropboxRedirectLanding.js" />
       <jump line="0" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/src/oauth/DropboxRedirectLanding.js" />
       <jump line="170" column="37" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/dist/dropbox/dropbox-api.js" />
+      <jump line="9" column="48" filename="$USER_HOME$/sideProject/escherpad/gittor/src/components/account-list-view/AccountListItem.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/src/components/account-list-view/AccountListItem.js" />
+      <jump line="41" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/src/components/account-list-view/AccountListItem.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
