@@ -9,6 +9,12 @@
         <mark key="^" line="8" column="47" />
         <mark key="." line="8" column="47" />
       </file>
+      <file name="$USER_HOME$/sideProject/layout-components/src/Flex-fill.example.js" timestamp="1493785191160">
+        <mark key="[" line="12" column="32" />
+        <mark key="]" line="12" column="32" />
+        <mark key="." line="12" column="32" />
+        <mark key="^" line="12" column="32" />
+      </file>
       <file name="$USER_HOME$/sideProject/escherpad/gittor/src/components/editor-view/modals/save-to-backend/ConnectToService.js" timestamp="1493075030346">
         <mark key="[" line="24" column="4" />
         <mark key="]" line="24" column="4" />
@@ -19,7 +25,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/sideProject/escherpad/eywa/README.md" timestamp="1493693708189" />
       <file name="$USER_HOME$/sideProject/escherpad/gittor/src/oauth/DropboxRedirectLanding.js" timestamp="1493006757425">
         <mark key="'" line="0" column="0" />
       </file>
@@ -53,6 +58,13 @@
         <mark key="[" line="17" column="22" />
         <mark key="]" line="17" column="22" />
         <mark key="." line="17" column="22" />
+      </file>
+      <file name="$USER_HOME$/sideProject/layout-components/src/Flex-row.example.js" timestamp="1493784942058">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="17" column="31" />
+        <mark key="]" line="17" column="31" />
+        <mark key="." line="17" column="31" />
+        <mark key="^" line="17" column="31" />
       </file>
       <file name="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/dist/dropbox/dropbox-api.js" timestamp="1493076168760">
         <mark key="'" line="170" column="37" />
@@ -89,6 +101,17 @@
       <file name="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/README.md" timestamp="1492919744768">
         <mark key="'" line="69" column="9" />
       </file>
+      <file name="$USER_HOME$/sideProject/layout-components/src/style-globals.js" timestamp="1493785724109">
+        <mark key="[" line="15" column="2" />
+        <mark key="]" line="15" column="6" />
+      </file>
+      <file name="$USER_HOME$/sideProject/layout-components/src/example/Readme.js" timestamp="1493785028631">
+        <mark key="'" line="64" column="0" />
+        <mark key="[" line="22" column="33" />
+        <mark key="]" line="22" column="43" />
+        <mark key="." line="22" column="43" />
+        <mark key="^" line="22" column="43" />
+      </file>
       <file name="$USER_HOME$/sideProject/escherpad/gittor/src/index.js" timestamp="1493081849831">
         <mark key="'" line="9" column="7" />
       </file>
@@ -98,30 +121,23 @@
         <mark key="." line="42" column="50" />
         <mark key="^" line="42" column="50" />
       </file>
+      <file name="$USER_HOME$/sideProject/layout-components/src/FlexItem.js" timestamp="1493785652378">
+        <mark key="'" line="32" column="0" />
+      </file>
       <file name="$USER_HOME$/sideProject/escherpad/escherpad/desktop-app/src/high-level-components.js" timestamp="1493783612158">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="0" column="32" />
         <mark key="^" line="0" column="32" />
         <mark key="." line="0" column="32" />
       </file>
+      <file name="$USER_HOME$/sideProject/layout-components/src/Flex.js" timestamp="1493784749790">
+        <mark key="[" line="8" column="2" />
+        <mark key="]" line="8" column="5" />
+        <mark key="." line="8" column="5" />
+        <mark key="^" line="8" column="5" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/README.md" />
-      <jump line="14" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/README.md" />
-      <jump line="16" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/README.md" />
-      <jump line="19" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/README.md" />
-      <jump line="25" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/README.md" />
-      <jump line="28" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/README.md" />
-      <jump line="35" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/README.md" />
-      <jump line="39" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/README.md" />
-      <jump line="47" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/README.md" />
-      <jump line="52" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/README.md" />
-      <jump line="54" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/README.md" />
-      <jump line="56" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/README.md" />
-      <jump line="69" column="9" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/README.md" />
-      <jump line="79" column="44" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/src/github/github-api.spec.js" />
-      <jump line="54" column="41" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/dist/dropbox/dropbox-api.js" />
-      <jump line="56" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/dist/dropbox/dropbox-api.js" />
       <jump line="58" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/dist/dropbox/dropbox-api.js" />
       <jump line="63" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/dist/dropbox/dropbox-api.js" />
       <jump line="64" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/dist/dropbox/dropbox-api.js" />
@@ -206,46 +222,62 @@
       <jump line="4" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/desktop-app/src/client-common/components/layout-components/Flex.js" />
       <jump line="0" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/desktop-app/src/client-common/components/layout-components/Flex.js" />
       <jump line="2" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/desktop-app/src/client-common/components/layout-components/Flex.js" />
+      <jump line="13" column="18" filename="$USER_HOME$/sideProject/layout-components/src/Flex-row.example.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/sideProject/layout-components/src/Flex-row.example.js" />
+      <jump line="23" column="0" filename="$USER_HOME$/sideProject/layout-components/src/Flex-row.example.js" />
+      <jump line="29" column="15" filename="$USER_HOME$/sideProject/layout-components/src/example/Readme.js" />
+      <jump line="31" column="0" filename="$USER_HOME$/sideProject/layout-components/src/example/Readme.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/sideProject/layout-components/src/example/Readme.js" />
+      <jump line="23" column="0" filename="$USER_HOME$/sideProject/layout-components/src/example/Readme.js" />
+      <jump line="25" column="0" filename="$USER_HOME$/sideProject/layout-components/src/example/Readme.js" />
+      <jump line="28" column="0" filename="$USER_HOME$/sideProject/layout-components/src/example/Readme.js" />
+      <jump line="30" column="0" filename="$USER_HOME$/sideProject/layout-components/src/example/Readme.js" />
+      <jump line="34" column="0" filename="$USER_HOME$/sideProject/layout-components/src/example/Readme.js" />
+      <jump line="36" column="0" filename="$USER_HOME$/sideProject/layout-components/src/example/Readme.js" />
+      <jump line="38" column="0" filename="$USER_HOME$/sideProject/layout-components/src/example/Readme.js" />
+      <jump line="60" column="0" filename="$USER_HOME$/sideProject/layout-components/src/example/Readme.js" />
+      <jump line="64" column="0" filename="$USER_HOME$/sideProject/layout-components/src/example/Readme.js" />
+      <jump line="32" column="0" filename="$USER_HOME$/sideProject/layout-components/src/FlexItem.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ID0gImRpdiI=</text>
+        <text>flex:</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gImRpdiI=</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgPG1ldGEgY2hhcnNldD0iVVRGLTgiPgogIDx0aXRsZT5HaXR0b3IgfCBEcm9wYm94IE9BdXRoMiBSZWRpcmVjdCBQYWdlPC90aXRsZT4KICA8c2NyaXB0IHNyYz0iLi4vdmVuZG9yLmpzIiB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPjwvc2NyaXB0PgogIDxzY3JpcHQgc3JjPSIuLi9hcHAuanMiIHR5cGU9InRleHQvamF2YXNjcmlwdCI+PC9zY3JpcHQ+CjwvaGVhZD4KPGJvZHk+CjxkaXYgaWQ9ImFwcCI+PC9kaXY+CjxsaW5rIGFzeW5jIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iaHR0cHM6Ly9jZG5qcy5jbG91ZGZsYXJlLmNvbS9hamF4L2xpYnMvS2FUZVgvMC41LjEva2F0ZXgubWluLmNzcyI+CjxsaW5rIGFzeW5jIGhyZWY9Imh0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vaWNvbj9mYW1pbHk9TWF0ZXJpYWwrSWNvbnMiIHJlbD0ic3R5bGVzaGVldCI+CjwvYm9keT4KPC9odG1sPg==</text>
+        <text>flex:</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMgaXMgYSBmaXhlZCBjb2x1bW4gd2l0aCB3aWR0aCBvZiAyMDBweAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBjaGVuY2hhIG9uIDUvMi8xNy4K</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMgaXMgYSBmaXhlZCBjb2x1bW4gd2l0aCB3aWR0aCBvZiAyMDBweAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgICAgICA8RmxleEl0ZW0gZml4ZWQgd2lkdGg9IjEwMHB4IiBzdHlsZT17e2JhY2tncm91bmRDb2xvcjogImdyYXkifX0+CiAgICAgICAgICB0aGlzIGlzIGEgZml4ZWQgY29sdW1uIHdpdGggd2lkdGggb2YgMjAwcHgKICAgICAgICA8L0ZsZXhJdGVtPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqIENyZWF0ZWQgYnkgZ2Ugb24gNC8yNC8xNi4gKi8K</text>
+        <text encoding="base64">dmFyIHthbnksIGJvb2wsIHN0cmluZ30gPSBQcm9wVHlwZXM7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3RhdGljIHByb3BUeXBlcyA9IHsKICAvKiogYW4gb3B0aW9uYWwgKi8KICBjb21wb25lbnQ6IHN0cmluZywKICByb3c6IGFueSwKICBjb2x1bW46IGFueSwKICBmaWxsOiBib29sLAogIC8qKiBvbmUgb2YgY2VudGVyLCBzdGFydCwgZW5kICovCiAgYWxpZ246IHN0cmluZywKICAvKiogb25lIG9mIHN0cmV0Y2gsIGNlbnRlciwgc3RhcnQsIGVuZCAqLwogIGp1c3RpZnk6IHN0cmluZywKICBzdHlsZTogYW55Cn07CnN0YXRpYyBkZWZhdWx0UHJvcHMgPSB7CiAgY29tcG9uZW50OiAiZGl2Igp9Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8cHJlPntKU09OLnN0cmluZ2lmeShGbGV4SXRlbUFTVCl9PC9wcmU+Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIHtGbGV4QVNULnByb3BzfQo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIGNvbW1hbmRzOiB7CiAgICAgICAgW05BTUVfU1BBQ0UgKyAiOmxpbnQtY29kZSJdOiB7CiAgICAgICAgICAgIHRvb2x0aXA6ICJsaW50IGNvZGUgaW4gdGhlIGN1cnJlbnQgc2VsZWN0aW9uIgogICAgICAgIH0sCiAgICAgICAgIkh5ZHJvZ2VuOnJlc3RhcnQtc2VydmVyIjogewogICAgICAgICAgICB0b29sdGlwOiAicmVzdGFydCBjdXJyZW50IGtlcm5lbCIKICAgICAgICB9CiAgICB9LAogICAgcmVkdWNlcjogewogICAgICAgICJhY2NvdW50cyI6IChzLCBhKSA9PiBzLAogICAgICAgICJAYWNjb3VudHMiOiAocywgYSkgPT4gcyAvLyB0aGlzIG9uZSBtb2RpZmllcyBleGlzdGluZyByZWR1Y2VyIGFzc29jaWF0ZWQgd2l0aCB0aGUgZmllbGQgYWNjb3VudHMKICAgIH0sIC8vIG9yIGEgZnVuY3Rpb24gKHMsIGEpPT5zCgogICAgdmlldzogewogICAgICAgICd2aWV3LWluc2VydGlvbi1wb2ludCc6IChwcm9wcykgPT4gPGRpdj5oYWhhPC9kaXY+LCAvLyBDb21wb25lbnQKICAgICAgICAnQHZpZXctZGVjb3JhdG9yJzogKENvbXBvbmVudCkgPT4gPENvbXBvbmVudCBuZXdQcm9wPXtUcnVlfS8+IC8vIHdyYXAgYXJvdW5kIGV4aXN0aW5nIGNvbXBvbmVudAogICAgfSwKICAgIHNhZ2E6IHsKICAgICAgICAnYWN0aW9uOnR5cGUtYmxhaC1ibGFoJzogZnVuY3Rpb24qICh7c3RhdGUsIHVwZGF0ZX0pID0+IHt9LCAvLyB0YWtlIHBhcnRpY3VsYXIgYWN0aW9uCn0=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gZXNjaGVycGFkIGhhcyBhbGwgdGhlc2UgaW5zZXJ0aW9uIHBvaW50cwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
