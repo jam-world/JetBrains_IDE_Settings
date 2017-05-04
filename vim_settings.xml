@@ -40,6 +40,9 @@
         <mark key="^" line="2" column="14" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/sideProject/layout-components/src/Responsive.js" timestamp="1493881323168">
+        <mark key="'" line="56" column="0" />
+      </file>
       <file name="$USER_HOME$/sideProject/escherpad/gittor/src/components/editor-view/modals/save-to-backend/ChooseAService.js" timestamp="1493070637457">
         <mark key="[" line="10" column="40" />
         <mark key="]" line="10" column="40" />
@@ -121,7 +124,7 @@
         <mark key="." line="42" column="50" />
         <mark key="^" line="42" column="50" />
       </file>
-      <file name="$USER_HOME$/sideProject/layout-components/src/FlexItem.js" timestamp="1493785652378">
+      <file name="$USER_HOME$/sideProject/layout-components/src/FlexItem.js" timestamp="1493881354617">
         <mark key="'" line="32" column="0" />
       </file>
       <file name="$USER_HOME$/sideProject/escherpad/escherpad/desktop-app/src/high-level-components.js" timestamp="1493783612158">
@@ -138,19 +141,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/dist/dropbox/dropbox-api.js" />
-      <jump line="63" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/dist/dropbox/dropbox-api.js" />
-      <jump line="64" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/dist/dropbox/dropbox-api.js" />
-      <jump line="73" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/dist/dropbox/dropbox-api.js" />
-      <jump line="38" column="14" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/dist/dropbox/dropbox-api.js" />
-      <jump line="62" column="2" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/src/github/github-api.js" />
-      <jump line="14" column="17" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/src/github/github-api.js" />
-      <jump line="21" column="9" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/src/github/github-api.js" />
-      <jump line="12" column="7" filename="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/package.json" />
-      <jump line="32" column="3" filename="$USER_HOME$/sideProject/escherpad/gittor/src/index.js" />
-      <jump line="34" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/src/index.js" />
-      <jump line="23" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/src/index.js" />
-      <jump line="18" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/src/index.js" />
       <jump line="47" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/src/index.js" />
       <jump line="48" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/src/index.js" />
       <jump line="36" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/src/index.js" />
@@ -237,6 +227,19 @@
       <jump line="38" column="0" filename="$USER_HOME$/sideProject/layout-components/src/example/Readme.js" />
       <jump line="60" column="0" filename="$USER_HOME$/sideProject/layout-components/src/example/Readme.js" />
       <jump line="64" column="0" filename="$USER_HOME$/sideProject/layout-components/src/example/Readme.js" />
+      <jump line="23" column="21" filename="$USER_HOME$/sideProject/layout-components/src/Responsive.js" />
+      <jump line="26" column="0" filename="$USER_HOME$/sideProject/layout-components/src/Responsive.js" />
+      <jump line="30" column="0" filename="$USER_HOME$/sideProject/layout-components/src/Responsive.js" />
+      <jump line="34" column="0" filename="$USER_HOME$/sideProject/layout-components/src/Responsive.js" />
+      <jump line="38" column="0" filename="$USER_HOME$/sideProject/layout-components/src/Responsive.js" />
+      <jump line="50" column="0" filename="$USER_HOME$/sideProject/layout-components/src/Responsive.js" />
+      <jump line="56" column="0" filename="$USER_HOME$/sideProject/layout-components/src/Responsive.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/sideProject/layout-components/src/FlexItem.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/sideProject/layout-components/src/FlexItem.js" />
+      <jump line="24" column="0" filename="$USER_HOME$/sideProject/layout-components/src/FlexItem.js" />
+      <jump line="27" column="0" filename="$USER_HOME$/sideProject/layout-components/src/FlexItem.js" />
+      <jump line="29" column="0" filename="$USER_HOME$/sideProject/layout-components/src/FlexItem.js" />
+      <jump line="53" column="0" filename="$USER_HOME$/sideProject/layout-components/src/FlexItem.js" />
       <jump line="32" column="0" filename="$USER_HOME$/sideProject/layout-components/src/FlexItem.js" />
     </jumps>
     <registers>
