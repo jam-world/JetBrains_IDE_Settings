@@ -21,11 +21,12 @@
         <mark key="." line="12" column="32" />
         <mark key="^" line="12" column="32" />
       </file>
-      <file name="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/components/SearchInput.js" timestamp="1496530754842">
-        <mark key="[" line="7" column="52" />
-        <mark key="]" line="7" column="51" />
-        <mark key="." line="7" column="51" />
-        <mark key="^" line="7" column="51" />
+      <file name="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/components/SearchInput.js" timestamp="1496530957382">
+        <mark key="'" line="4" column="1" />
+        <mark key="[" line="7" column="46" />
+        <mark key="]" line="9" column="1" />
+        <mark key="." line="9" column="1" />
+        <mark key="^" line="9" column="1" />
       </file>
       <file name="$USER_HOME$/sideProject/escherpad/gittor/src/components/editor-view/modals/save-to-backend/ConnectToService.js" timestamp="1493075030346">
         <mark key="[" line="24" column="4" />
@@ -179,7 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/src/oauth/DropboxRedirectLanding.js" />
       <jump line="28" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/src/oauth/DropboxRedirectLanding.js" />
       <jump line="25" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/src/oauth/DropboxRedirectLanding.js" />
       <jump line="18" column="0" filename="$USER_HOME$/sideProject/escherpad/gittor/src/oauth/DropboxRedirectLanding.js" />
@@ -279,6 +279,7 @@
       <jump line="38" column="22" filename="$USER_HOME$/sideProject/escherpad/test-luna-saga/src/lib/Selector.js" />
       <jump line="39" column="33" filename="$USER_HOME$/sideProject/escherpad/test-luna-saga/src/lib/Selector.js" />
       <jump line="32" column="22" filename="$USER_HOME$/sideProject/escherpad/test-luna-saga/src/lib/Selector.js" />
+      <jump line="4" column="1" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/components/SearchInput.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
