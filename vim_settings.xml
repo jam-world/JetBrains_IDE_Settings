@@ -21,6 +21,12 @@
         <mark key="." line="12" column="32" />
         <mark key="^" line="12" column="32" />
       </file>
+      <file name="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/components/SearchInput.js" timestamp="1496530754842">
+        <mark key="[" line="7" column="52" />
+        <mark key="]" line="7" column="51" />
+        <mark key="." line="7" column="51" />
+        <mark key="^" line="7" column="51" />
+      </file>
       <file name="$USER_HOME$/sideProject/escherpad/gittor/src/components/editor-view/modals/save-to-backend/ConnectToService.js" timestamp="1493075030346">
         <mark key="[" line="24" column="4" />
         <mark key="]" line="24" column="4" />
@@ -84,7 +90,6 @@
       <file name="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/dist/dropbox/dropbox-api.js" timestamp="1493076168760">
         <mark key="'" line="170" column="37" />
       </file>
-      <file name="$USER_HOME$/sideProject/escherpad/test-luna-saga/node_modules/luna/dist/Store.d.ts" timestamp="1496457606086" />
       <file name="$USER_HOME$/sideProject/escherpad/gittor/src/views/MainEditorView.js" timestamp="1493000878465">
         <mark key="'" line="0" column="0" />
       </file>
@@ -98,7 +103,6 @@
         <mark key="." line="4" column="23" />
         <mark key="^" line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/sideProject/escherpad/test-luna-saga/node_modules/luna/dist/Store.js" timestamp="1496457648732" />
       <file name="$USER_HOME$/sideProject/escherpad/test-luna-saga/src/lib/Selector.js" timestamp="1496457480175">
         <mark key="'" line="32" column="22" />
         <mark key="[" line="23" column="48" />
@@ -278,10 +282,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGRpdg==</text>
+        <text>SearchInput</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGRpdg==</text>
+        <text>SearchInput</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0ZVw+</text>
