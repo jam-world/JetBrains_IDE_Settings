@@ -62,7 +62,7 @@
         <mark key="]" line="17" column="22" />
         <mark key="." line="17" column="22" />
       </file>
-      <file name="$USER_HOME$/sideProject/layout-components/src/Flex-row.example.js" timestamp="1493784942058">
+      <file name="$USER_HOME$/sideProject/layout-components/src/Flex-row.example.js" timestamp="1496452002644">
         <mark key="'" line="23" column="0" />
         <mark key="[" line="17" column="31" />
         <mark key="]" line="17" column="31" />
@@ -212,9 +212,6 @@
       <jump line="4" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/desktop-app/src/client-common/components/layout-components/Flex.js" />
       <jump line="0" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/desktop-app/src/client-common/components/layout-components/Flex.js" />
       <jump line="2" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/desktop-app/src/client-common/components/layout-components/Flex.js" />
-      <jump line="13" column="18" filename="$USER_HOME$/sideProject/layout-components/src/Flex-row.example.js" />
-      <jump line="21" column="0" filename="$USER_HOME$/sideProject/layout-components/src/Flex-row.example.js" />
-      <jump line="23" column="0" filename="$USER_HOME$/sideProject/layout-components/src/Flex-row.example.js" />
       <jump line="29" column="15" filename="$USER_HOME$/sideProject/layout-components/src/example/Readme.js" />
       <jump line="31" column="0" filename="$USER_HOME$/sideProject/layout-components/src/example/Readme.js" />
       <jump line="17" column="0" filename="$USER_HOME$/sideProject/layout-components/src/example/Readme.js" />
@@ -241,6 +238,9 @@
       <jump line="29" column="0" filename="$USER_HOME$/sideProject/layout-components/src/FlexItem.js" />
       <jump line="53" column="0" filename="$USER_HOME$/sideProject/layout-components/src/FlexItem.js" />
       <jump line="32" column="0" filename="$USER_HOME$/sideProject/layout-components/src/FlexItem.js" />
+      <jump line="13" column="15" filename="$USER_HOME$/sideProject/layout-components/src/Flex-row.example.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/sideProject/layout-components/src/Flex-row.example.js" />
+      <jump line="23" column="0" filename="$USER_HOME$/sideProject/layout-components/src/Flex-row.example.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
