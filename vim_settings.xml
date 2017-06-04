@@ -116,12 +116,12 @@
         <mark key="^" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" timestamp="1496536778226">
-        <mark key="'" line="39" column="0" />
-        <mark key="[" line="52" column="15" />
-        <mark key="]" line="52" column="15" />
-        <mark key="." line="52" column="15" />
-        <mark key="^" line="50" column="5" />
+      <file name="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" timestamp="1496538315751">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="76" column="26" />
+        <mark key="]" line="76" column="25" />
+        <mark key="." line="76" column="25" />
+        <mark key="^" line="76" column="25" />
       </file>
       <file name="$USER_HOME$/sideProject/escherpad/escherpad/desktop-app/src/client-common/modules/example-module/index.js" timestamp="1493699337467">
         <mark key="[" line="20" column="66" />
@@ -192,44 +192,9 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="20" filename="$USER_HOME$/sideProject/escherpad/test-luna-saga/src/lib/Selector.js" />
-      <jump line="4" column="43" filename="$USER_HOME$/sideProject/escherpad/test-luna-saga/src/lib/Selector.js" />
-      <jump line="6" column="47" filename="$USER_HOME$/sideProject/escherpad/test-luna-saga/src/lib/Selector.js" />
-      <jump line="38" column="22" filename="$USER_HOME$/sideProject/escherpad/test-luna-saga/src/lib/Selector.js" />
-      <jump line="39" column="33" filename="$USER_HOME$/sideProject/escherpad/test-luna-saga/src/lib/Selector.js" />
-      <jump line="32" column="22" filename="$USER_HOME$/sideProject/escherpad/test-luna-saga/src/lib/Selector.js" />
-      <jump line="4" column="1" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/components/SearchInput.js" />
-      <jump line="7" column="41" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/components/SearchInput.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/Meta.js" />
-      <jump line="11" column="5" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/Meta.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/Meta.js" />
-      <jump line="23" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/Meta.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/Meta.js" />
-      <jump line="5" column="27" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/Meta.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/Meta.js" />
-      <jump line="13" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/Meta.js" />
-      <jump line="42" column="4" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/packages/selector-container/SelectContainer.js" />
-      <jump line="43" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/packages/selector-container/SelectContainer.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/packages/selector-container/SelectContainer.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/packages/selector-container/SelectContainer.js" />
-      <jump line="7" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/packages/selector-container/SelectContainer.js" />
-      <jump line="5" column="12" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/packages/selector-container/SelectContainer.js" />
-      <jump line="44" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/packages/selector-container/SelectContainer.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/packages/selector-container/SelectContainer.js" />
-      <jump line="16" column="35" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/packages/selector-container/SelectContainer.js" />
-      <jump line="25" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/packages/selector-container/SelectContainer.js" />
-      <jump line="12" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/packages/selector-container/SelectContainer.js" />
-      <jump line="10" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model.js" />
-      <jump line="17" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model.js" />
-      <jump line="18" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model.js" />
-      <jump line="9" column="44" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model.js" />
       <jump line="7" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model.js" />
       <jump line="12" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model.js" />
       <jump line="26" column="23" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
-      <jump line="25" column="6" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
       <jump line="22" column="39" filename="$USER_HOME$/sideProject/escherpad/escherpad/gittor/src/store/posts/posts.js" />
       <jump line="20" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/gittor/src/store/posts/posts.js" />
       <jump line="281" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/gittor/src/store/posts/posts.js" />
@@ -259,104 +224,128 @@
       <jump line="70" column="32" filename="$USER_HOME$/sideProject/escherpad/escherpad/gittor/src/store/posts/posts.js" />
       <jump line="72" column="29" filename="$USER_HOME$/sideProject/escherpad/escherpad/gittor/src/store/posts/posts.js" />
       <jump line="4" column="28" filename="$USER_HOME$/sideProject/escherpad/escherpad/gittor/src/store/posts/posts.js" />
-      <jump line="50" column="19" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
-      <jump line="49" column="8" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
-      <jump line="52" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
-      <jump line="61" column="9" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
       <jump line="29" column="6" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
-      <jump line="48" column="24" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
       <jump line="2" column="28" filename="$USER_HOME$/sideProject/escherpad/escherpad/gittor/src/store/posts/posts.js" />
       <jump line="81" column="14" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
-      <jump line="54" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
       <jump line="44" column="40" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
       <jump line="82" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
-      <jump line="80" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
       <jump line="63" column="36" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
-      <jump line="85" column="36" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
-      <jump line="53" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
       <jump line="2" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
-      <jump line="83" column="12" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
       <jump line="1" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
-      <jump line="47" column="34" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
-      <jump line="92" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
       <jump line="0" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
       <jump line="3" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
+      <jump line="78" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
+      <jump line="65" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
+      <jump line="77" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
       <jump line="11" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
       <jump line="14" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
       <jump line="22" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
       <jump line="27" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
-      <jump line="36" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
       <jump line="38" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
-      <jump line="78" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
-      <jump line="65" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
-      <jump line="62" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
+      <jump line="74" column="4" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
+      <jump line="58" column="4" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
+      <jump line="71" column="18" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
+      <jump line="92" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
+      <jump line="90" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
+      <jump line="25" column="17" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
+      <jump line="62" column="31" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
+      <jump line="89" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
+      <jump line="91" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
+      <jump line="99" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
+      <jump line="93" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
+      <jump line="83" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
+      <jump line="67" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
+      <jump line="54" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
+      <jump line="51" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
+      <jump line="47" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
       <jump line="39" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
+      <jump line="28" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
+      <jump line="30" column="4" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
+      <jump line="64" column="27" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
+      <jump line="72" column="34" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
+      <jump line="80" column="28" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
+      <jump line="16" column="43" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
+      <jump line="18" column="4" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
+      <jump line="36" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
+      <jump line="53" column="28" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
+      <jump line="86" column="37" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
+      <jump line="87" column="21" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
+      <jump line="97" column="46" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
+      <jump line="103" column="39" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
+      <jump line="41" column="56" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
+      <jump line="49" column="31" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
+      <jump line="50" column="54" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
+      <jump line="56" column="38" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
+      <jump line="70" column="2" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
+      <jump line="102" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
+      <jump line="95" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
+      <jump line="88" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
+      <jump line="85" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
+      <jump line="69" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
+      <jump line="61" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
+      <jump line="55" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
+      <jump line="52" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
+      <jump line="48" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
+      <jump line="40" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
+      <jump line="37" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>state</text>
+        <text encoding="base64">IGFzIDwgc3RhdGVUID4=</text>
       </register>
       <register name="-" type="4">
-        <text>state</text>
+        <text encoding="base64">IGFzIDwgc3RhdGVUID4=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxVUERBVEVfUE9TVFw+</text>
+        <text>state</text>
       </register>
       <register name="0" type="4">
-        <text>update</text>
+        <text encoding="base64">ICAgIGlmIChzdGF0ZS5pZCAhPT0gYWN0aW9uLnBvc3QuaWQpIHJldHVybiBzdGF0ZTsKICAgIGNvbnN0IHskdXBkYXRlZElkLCBfdiwgLi4uX3Bvc3R9ID0gYWN0aW9uLnBvc3Q7CiAgICBsZXQgbmV3UG9zdCA9IHsKICAgICAgICAuLi5TdGF0ZSwKICAgICAgICAuLi5fcG9zdCwKICAgICAgICBwcmVzZW5jZTogcHJlc2VuY2Uoc3RhdGUucHJlc2VuY2UsIGFjdG9pbiksCiAgICAgICAgX3Y6IHR5cGVvZiBfdiA9ICd1bmRlZmluZWQnID8gKHN0YXRlLl92ICsgMSkgOiBfdgogICAgfTsKICAgIGlmICgkdXBkYXRlSWQpIG5ld1Bvc3QuaWQgPSAkdXBkYXRlSWQ7CiAgICByZXR1cm4gbmV3UG9zdDs=</text>
       </register>
-      <register name="1" type="4">
-        <text>else if (action.type === `${name}::${UPDATE}`) {
-            return update(state, action);
-        } else if (action.type === `${name}::${INSERT}`) {
-            return insert(state, action);
-        } else if (action.type === `${name}::${REMOVE}`) {
-            return remove(state, action);
-        } else if (action.type === `${name}::${UPSERT}`) {
-            return state;
-        }</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBhcHBseShyZWR1Y2VyLCBhY3Rpb24pOwo=</text>
+        <text encoding="base64">ICAgIHZhciAkdXBkYXRlSWQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxldCAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiB7X3Y6IDAsIF92MDogMCwgLi4uYWN0aW9uLnBvc3R9Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gYXBwbHkocmVkdWNlciwgYWN0aW9uKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cmV0dXJuCg==</text>
+        <text encoding="base64">ICAgIGxldCBwb3N0ID0gYWN0aW9uLnBvc3Q7CiAgICBpZiAoIXBvc3QgfHwgIXBvc3QuaXMpIHJldHVybjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxldCBwb3N0ID0gYWN0aW9uLnBvc3Q7CiAgICBpZiAoIXBvc3QgfHwgIXBvc3QuaXMpIHJldHVybjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gYXBwbHkocmUpCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBzdGF0ZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBbYCR7bmFtZX06OiR7SU5TRVJUfWBdOiBpbnNlcnQsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxVUERBVEVfUE9TVFw+</last-search>
+      <last-search>state</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxVUERBVEVfUE9TVFw+</last-pattern>
+      <last-pattern>state</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxNYWluRWRpdG9yVmlld1w+</entry>
-        <entry>MainEditorView</entry>
-        <entry>save to</entry>
         <entry>save</entry>
         <entry>const</entry>
         <entry>selector</entry>
@@ -374,6 +363,9 @@
         <entry>remove</entry>
         <entry>REMOVE</entry>
         <entry encoding="base64">XDxVUERBVEVfUE9TVFw+</entry>
+        <entry>updateId</entry>
+        <entry>key</entry>
+        <entry>state</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
