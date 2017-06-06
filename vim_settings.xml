@@ -46,6 +46,9 @@
       <file name="$USER_HOME$/sideProject/escherpad/gittor/src/oauth/DropboxRedirectLanding.js" timestamp="1493006757425">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/myGitRepo/Direction_Generator/demo/src/AgentLegend.js" timestamp="1496733690018">
+        <mark key="[" line="1" column="37" />
+      </file>
       <file name="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model.js" timestamp="1496532850861">
         <mark key="'" line="12" column="0" />
       </file>
@@ -185,12 +188,12 @@
         <mark key="." line="22" column="43" />
         <mark key="^" line="22" column="43" />
       </file>
-      <file name="$USER_HOME$/myGitRepo/Direction_Generator/demo/src/MainView.js" timestamp="1496730345283">
+      <file name="$USER_HOME$/myGitRepo/Direction_Generator/demo/src/MainView.js" timestamp="1496733726185">
         <mark key="'" line="11" column="0" />
-        <mark key="[" line="34" column="32" />
-        <mark key="]" line="34" column="34" />
-        <mark key="." line="34" column="34" />
-        <mark key="^" line="34" column="34" />
+        <mark key="[" line="48" column="20" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="50" column="21" />
       </file>
       <file name="$USER_HOME$/sideProject/escherpad/gittor/src/index.js" timestamp="1493081849831">
         <mark key="'" line="9" column="7" />
@@ -211,12 +214,12 @@
         <mark key="." line="21" column="38" />
         <mark key="^" line="21" column="38" />
       </file>
-      <file name="$USER_HOME$/myGitRepo/Direction_Generator/demo/src/GoogleMapView.js" timestamp="1496728231833">
-        <mark key="'" line="55" column="0" />
-        <mark key="[" line="10" column="40" />
-        <mark key="]" line="10" column="40" />
-        <mark key="." line="10" column="40" />
-        <mark key="^" line="10" column="52" />
+      <file name="$USER_HOME$/myGitRepo/Direction_Generator/demo/src/GoogleMapView.js" timestamp="1496734294046">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="51" column="32" />
+        <mark key="]" line="51" column="41" />
+        <mark key="." line="51" column="41" />
+        <mark key="^" line="51" column="41" />
       </file>
       <file name="$USER_HOME$/sideProject/escherpad/escherpad/desktop-app/src/high-level-components.js" timestamp="1493783612158">
         <mark key="[" line="1" column="0" />
@@ -235,7 +238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="38" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
       <jump line="102" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
       <jump line="95" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
       <jump line="88" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
@@ -335,13 +337,14 @@
       <jump line="7" column="6" filename="$USER_HOME$/myGitRepo/Direction_Generator/demo/src/InstructionPanel.js" />
       <jump line="28" column="0" filename="$USER_HOME$/myGitRepo/Direction_Generator/demo/src/InstructionPanel.js" />
       <jump line="8" column="8" filename="$USER_HOME$/myGitRepo/Direction_Generator/demo/src/InstructionPanel.js" />
+      <jump line="54" column="0" filename="$USER_HOME$/myGitRepo/Direction_Generator/demo/src/GoogleMapView.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8R29vZ2xlTWFwIGxhdD0iIiBsbmc9IiIgem9vbT0iIiBhbGxvd1Njcm9sbFdoZWVsPSIiLz4KICAgICAgICAgICAgICAgICAgICA8Rwo=</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>mapOp</text>
@@ -350,31 +353,31 @@
         <text>.streetViewPanoramaOptions</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhfcHJvcHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8R29vZ2xlTWFwIGxhdD0iIiBsbmc9IiIgem9vbT0iIiBhbGxvd1Njcm9sbFdoZWVsPSIiLz4KICAgICAgICAgICAgICAgICAgICA8Rwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvblBvdkNoYW5nZWQ6IFByb3BUeXBlcy5udW1iZXIuaXNSZXF1aXJlZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgICAgIGhlaWdodDogJzEwMCUnCiAgICAgICAgICAgIH19Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBvblBvc2l0aW9uQ2hhbmdlZDogUHJvcFR5cGVzLm51bWJlci5pc1JlcXVpcmVkLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgaGVpZ2h0PXsyMDB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoPXsyMDB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyogaW1wb3J0IEdvb2dsZU1hcCBmcm9tICJnb29nbGUtbWFwLXJlYWN0IjsqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgd2lkdGg6ICIyMDBweCIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyogaW1wb3J0IFN0cmVldFZpZXcgZnJvbSAncmVhY3QtR29vZ2xlU3RyZWV0Vmlldyc7Ki8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaGVpZ2h0OiAiMjAwcHgiLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMucHJvcHMuc3RyZWV0Vmlld1Bhbm9yYW1hT3B0aW9ucwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxHb29nbGVNYXAgbGF0PSIiIGxuZz0iIiB6b29tPSIiIGFsbG93U2Nyb2xsV2hlZWw9IiIvPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxhdDogdGhpcy5wcm9wcy5sYXQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICB6b29tPXsxOH0vPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxuZzogdGhpcy5wcm9wcy5sbmcsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBjZW50ZXI9e3tsYXQsIGxuZ319Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGhlYWRqCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxGbGV4SXRlbSBmbHVpZCBjb21wb25lbnQ9e0dvb2dsZU1hcH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
