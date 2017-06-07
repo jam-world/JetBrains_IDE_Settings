@@ -214,8 +214,8 @@
         <mark key="." line="21" column="38" />
         <mark key="^" line="21" column="38" />
       </file>
-      <file name="$USER_HOME$/myGitRepo/Direction_Generator/demo/src/GoogleMapView.js" timestamp="1496740734233">
-        <mark key="'" line="7" column="0" />
+      <file name="$USER_HOME$/myGitRepo/Direction_Generator/demo/src/GoogleMapView.js" timestamp="1496827193507">
+        <mark key="'" line="54" column="0" />
         <mark key="[" line="51" column="32" />
         <mark key="]" line="51" column="41" />
         <mark key="." line="51" column="41" />
@@ -335,9 +335,9 @@
       <jump line="7" column="6" filename="$USER_HOME$/myGitRepo/Direction_Generator/demo/src/InstructionPanel.js" />
       <jump line="28" column="0" filename="$USER_HOME$/myGitRepo/Direction_Generator/demo/src/InstructionPanel.js" />
       <jump line="8" column="8" filename="$USER_HOME$/myGitRepo/Direction_Generator/demo/src/InstructionPanel.js" />
-      <jump line="54" column="0" filename="$USER_HOME$/myGitRepo/Direction_Generator/demo/src/GoogleMapView.js" />
       <jump line="15" column="0" filename="$USER_HOME$/myGitRepo/Direction_Generator/demo/src/GoogleMapView.js" />
       <jump line="7" column="0" filename="$USER_HOME$/myGitRepo/Direction_Generator/demo/src/GoogleMapView.js" />
+      <jump line="54" column="0" filename="$USER_HOME$/myGitRepo/Direction_Generator/demo/src/GoogleMapView.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
