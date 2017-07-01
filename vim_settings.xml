@@ -70,12 +70,12 @@
         <mark key="." line="10" column="40" />
         <mark key="^" line="10" column="47" />
       </file>
-      <file name="$USER_HOME$/sideProject/escherpad/eywa/src/github/github-api.spec.js" timestamp="1498884132123">
+      <file name="$USER_HOME$/sideProject/escherpad/eywa/src/github/github-api.spec.js" timestamp="1498886563130">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="139" column="24" />
-        <mark key="]" line="140" column="11" />
+        <mark key="[" line="120" column="6" />
+        <mark key="]" line="120" column="6" />
         <mark key="^" line="140" column="11" />
-        <mark key="." line="140" column="11" />
+        <mark key="." line="120" column="6" />
       </file>
       <file name="$USER_HOME$/sideProject/layout-components/src/Flex-row.example.js" timestamp="1496452002644">
         <mark key="'" line="23" column="0" />
@@ -376,7 +376,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ID0gZGF0YS5jb250ZW50LnNoYQ==</text>
+        <text encoding="base64">LmNhdGNoKGVycm9yID0+IHsKICAgICAgY29uc29sZS5sb2coZXJyb3IpOwogICAgICBmYWlsKCkKICAgIH0p</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ID0gZGF0YS5jb250ZW50LnNoYQ==</text>
@@ -390,32 +390,32 @@
  */
 export const testRepoName = &quot;repo name&quot;</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ZGRrawo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">LmNhdGNoKGVycm9yID0+IHsKICAgICAgY29uc29sZS5sb2coZXJyb3IpOwogICAgICBmYWlsKCkKICAgIH0p</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKGVycm9yID0+IGNvbnNvbGUubG9nKGVycm9yKSkK</text>
+        <text encoding="base64">ZGRrawo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKHJldHVybiApCg==</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKGVycm9yID0+IGNvbnNvbGUubG9nKGVycm9yKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC50aGVuKHJlcyA9PiBub19wYXJzZSA/IHJlcyA6IHJlcy5qc29uKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKHJldHVybiApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4ocmVzcG9uc2UgPT4gKHJlc3BvbnNlLm9rID8gcmVzcG9uc2UgOiAodHJ1ZSwgKHRocm93IEVycm9yKHJlc3BvbnNlLnN0YXR1c1RleHQpKSkpKQo=</text>
+        <text encoding="base64">ICAgIC50aGVuKHJlcyA9PiBub19wYXJzZSA/IHJlcyA6IHJlcy5qc29uKCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRocm93IEVycm9yKHJlc3BvbnNlLnN0YXR1c1RleHQpCg==</text>
+        <text encoding="base64">ICAgICAgLnRoZW4ocmVzcG9uc2UgPT4gKHJlc3BvbnNlLm9rID8gcmVzcG9uc2UgOiAodHJ1ZSwgKHRocm93IEVycm9yKHJlc3BvbnNlLnN0YXR1c1RleHQpKSkpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVsc2UK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgIHRocm93IEVycm9yKHJlc3BvbnNlLnN0YXR1c1RleHQpCg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGVsc2UK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgIHRocm93IEVycm9yKHJlc3BvbnNlLnN0YXR1c1RleHQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
