@@ -52,8 +52,8 @@
         <mark key="^" line="2" column="14" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/package.json" timestamp="1498939811381">
-        <mark key="'" line="29" column="27" />
+      <file name="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/package.json" timestamp="1498949216081">
+        <mark key="'" line="0" column="0" />
         <mark key="." line="12" column="76" />
       </file>
       <file name="$USER_HOME$/sideProject/escherpad/eywa/.gitignore" timestamp="1498878180579">
@@ -278,10 +278,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
-      <jump line="61" column="13" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
-      <jump line="70" column="18" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
-      <jump line="38" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
       <jump line="11" column="0" filename="$USER_HOME$/myGitRepo/Direction_Generator/demo/src/google_map.js" />
       <jump line="16" column="0" filename="$USER_HOME$/myGitRepo/Direction_Generator/demo/src/street_view.js" />
       <jump line="53" column="0" filename="$USER_HOME$/myGitRepo/Direction_Generator/demo/src/street_view.js" />
@@ -378,6 +374,10 @@
       <jump line="163" column="0" filename="$USER_HOME$/sideProject/escherpad/eywa/src/github/github-api.spec.js" />
       <jump line="153" column="0" filename="$USER_HOME$/sideProject/escherpad/eywa/src/github/github-api.spec.js" />
       <jump line="124" column="0" filename="$USER_HOME$/sideProject/escherpad/eywa/src/github/github-api.spec.js" />
+      <jump line="25" column="20" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/package.json" />
+      <jump line="1" column="17" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/package.json" />
+      <jump line="50" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/package.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -387,7 +387,7 @@
         <text>testPublicRepo</text>
       </register>
       <register name="/" type="4">
-        <text>xit</text>
+        <text>eywa</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgIGl0KCJsaXN0IGZpbGUgaW4gcHVibGljIHJlcG8iLCBmdW5jdGlvbihkb25lKSB7CiAgICAgICAgamFzbWluZS5ERUZBVUxUX1RJTUVPVVRfSU5URVJWQUw9IDIwMDA7CiAgICAgICAgZ2gubGlzdEZpbGUodGVzdFVzZXJuYW1lLCB0ZXN0UHVibGljUmVwbywgcGF0aCkKICAgICAgICAgICAgLnRoZW4oZGF0YSA9PiB7CiAgICAgICAgICAgICAgZXhwZWN0KGRhdGEubGVuZ3RoID4gMCkudG9CZSh0cnVlKTsKICAgICAgICAgICAgICBleHBlY3QoZGF0YVswXS50eXBlKS50b0JlRGVmaW5lZCgpOwogICAgICAgICAgICAgIGRvbmUoKTsKICAgICAgICAgICAgfSkKICAgIH0p</text>
@@ -424,15 +424,14 @@
       </register>
     </registers>
     <search>
-      <last-search>xit</last-search>
+      <last-search>eywa</last-search>
       <last-offset />
-      <last-pattern>xit</last-pattern>
+      <last-pattern>eywa</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDb21wb25lbnRcPg==</entry>
         <entry encoding="base64">XDxzdGF0ZVw+</entry>
         <entry>autor</entry>
         <entry>auto</entry>
@@ -452,6 +451,7 @@
         <entry>create</entry>
         <entry>delete</entry>
         <entry>xit</entry>
+        <entry>eywa</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
