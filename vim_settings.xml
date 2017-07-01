@@ -37,11 +37,11 @@
       <file name="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model.js" timestamp="1496532850861">
         <mark key="'" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/sideProject/escherpad/eywa/test.config.js.example" timestamp="1498888777427">
-        <mark key="[" line="17" column="17" />
-        <mark key="]" line="17" column="18" />
-        <mark key="." line="17" column="18" />
-        <mark key="^" line="17" column="16" />
+      <file name="$USER_HOME$/sideProject/escherpad/eywa/test.config.js.example" timestamp="1498939268631">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="19" column="52" />
+        <mark key="." line="19" column="51" />
+        <mark key="^" line="19" column="51" />
       </file>
       <file name="$USER_HOME$/sideProject/escherpad/escherpad/desktop-app/src/Ra_.js" timestamp="1493694210941">
         <mark key="'" line="21" column="0" />
@@ -70,12 +70,12 @@
         <mark key="." line="10" column="40" />
         <mark key="^" line="10" column="47" />
       </file>
-      <file name="$USER_HOME$/sideProject/escherpad/eywa/src/github/github-api.spec.js" timestamp="1498894611206">
-        <mark key="'" line="93" column="2" />
-        <mark key="[" line="170" column="49" />
-        <mark key="]" line="171" column="20" />
-        <mark key="^" line="171" column="20" />
-        <mark key="." line="171" column="20" />
+      <file name="$USER_HOME$/sideProject/escherpad/eywa/src/github/github-api.spec.js" timestamp="1498939589952">
+        <mark key="'" line="156" column="46" />
+        <mark key="[" line="10" column="993" />
+        <mark key="]" line="10" column="993" />
+        <mark key="^" line="7" column="17" />
+        <mark key="." line="10" column="993" />
       </file>
       <file name="$USER_HOME$/sideProject/layout-components/src/Flex-row.example.js" timestamp="1496452002644">
         <mark key="'" line="23" column="0" />
@@ -87,8 +87,9 @@
       <file name="$USER_HOME$/sideProject/escherpad/escherpad/gittor/gittor/app.js" timestamp="1496534379694">
         <mark key="[" line="54" column="19076" />
       </file>
-      <file name="$USER_HOME$/sideProject/escherpad/eywa/dist/dropbox/dropbox-api.spec.js" timestamp="1498892682000">
+      <file name="$USER_HOME$/sideProject/escherpad/eywa/dist/dropbox/dropbox-api.spec.js" timestamp="1498939597991">
         <mark key="'" line="50" column="0" />
+        <mark key="." line="90" column="150" />
       </file>
       <file name="$USER_HOME$/sideProject/escherpad/eywa/dist/github/github-api.spec.js" timestamp="1498888175016">
         <mark key="'" line="140" column="0" />
@@ -199,16 +200,16 @@
         <mark key="." line="87" column="0" />
         <mark key="^" line="86" column="46" />
       </file>
-      <file name="$USER_HOME$/sideProject/escherpad/eywa/test.config.js" timestamp="1498888797912">
-        <mark key="[" line="18" column="17" />
-        <mark key="]" line="18" column="18" />
-        <mark key="." line="18" column="18" />
-        <mark key="^" line="18" column="16" />
+      <file name="$USER_HOME$/sideProject/escherpad/eywa/test.config.js" timestamp="1498939390568">
+        <mark key="[" line="20" column="56" />
+        <mark key="]" line="20" column="56" />
+        <mark key="." line="20" column="56" />
+        <mark key="^" line="20" column="56" />
       </file>
       <file name="$USER_HOME$/sideProject/escherpad/gittor/node_modules/eywa-dropbox/dist/dropbox/dropbox-api.js" timestamp="1493076168760">
         <mark key="'" line="170" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498888256575">
+      <file name="/Dummy.txt" timestamp="1498939545015">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/myGitRepo/Direction_Generator/demo/node_modules/layout-components/dist/FlexItem.js" timestamp="1496729106386">
@@ -245,11 +246,6 @@
         <mark key="." line="6" column="103" />
         <mark key="^" line="6" column="103" />
       </file>
-      <file name="$USER_HOME$/myGitRepo/Direction_Generator/demo/package.json" timestamp="1496727345606">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/sideProject/escherpad/test-luna-saga/src/index.js" timestamp="1496458214727">
         <mark key="[" line="19" column="15" />
         <mark key="]" line="19" column="18" />
@@ -284,28 +280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/post.js" />
-      <jump line="20" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/post.js" />
-      <jump line="32" column="1" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
-      <jump line="12" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/post.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/post.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
-      <jump line="46" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
-      <jump line="43" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
-      <jump line="28" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
-      <jump line="14" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
-      <jump line="13" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
-      <jump line="23" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
-      <jump line="25" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
-      <jump line="93" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
-      <jump line="83" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
-      <jump line="76" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
-      <jump line="59" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
-      <jump line="51" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
-      <jump line="45" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
-      <jump line="42" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
       <jump line="73" column="4" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
       <jump line="15" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
       <jump line="80" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/collection.js" />
@@ -373,57 +347,79 @@
       <jump line="50" column="6" filename="$USER_HOME$/sideProject/escherpad/eywa/src/github/github-api.spec.js" />
       <jump line="57" column="7" filename="$USER_HOME$/sideProject/escherpad/eywa/src/github/github-api.spec.js" />
       <jump line="115" column="19" filename="$USER_HOME$/sideProject/escherpad/eywa/src/github/github-api.spec.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/sideProject/escherpad/eywa/src/github/github-api.spec.js" />
       <jump line="138" column="10" filename="$USER_HOME$/sideProject/escherpad/eywa/dist/github/github-api.spec.js" />
       <jump line="140" column="0" filename="$USER_HOME$/sideProject/escherpad/eywa/dist/github/github-api.spec.js" />
       <jump line="144" column="0" filename="$USER_HOME$/sideProject/escherpad/eywa/dist/github/github-api.spec.js" />
       <jump line="132" column="22" filename="$USER_HOME$/sideProject/escherpad/eywa/src/github/github-api.spec.js" />
-      <jump line="14" column="16" filename="$USER_HOME$/sideProject/escherpad/eywa/src/github/github-api.spec.js" />
       <jump line="26" column="23" filename="$USER_HOME$/sideProject/escherpad/eywa/src/github/github-api.spec.js" />
       <jump line="32" column="13" filename="$USER_HOME$/sideProject/escherpad/eywa/src/github/github-api.js" />
       <jump line="50" column="0" filename="$USER_HOME$/sideProject/escherpad/eywa/dist/dropbox/dropbox-api.spec.js" />
       <jump line="148" column="6" filename="$USER_HOME$/sideProject/escherpad/eywa/src/github/github-api.spec.js" />
       <jump line="93" column="2" filename="$USER_HOME$/sideProject/escherpad/eywa/src/github/github-api.spec.js" />
+      <jump line="158" column="6" filename="$USER_HOME$/sideProject/escherpad/eywa/src/github/github-api.spec.js" />
+      <jump line="102" column="0" filename="$USER_HOME$/sideProject/escherpad/eywa/src/github/github-api.spec.js" />
+      <jump line="66" column="0" filename="$USER_HOME$/sideProject/escherpad/eywa/src/github/github-api.spec.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/sideProject/escherpad/eywa/src/github/github-api.spec.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/sideProject/escherpad/eywa/src/github/github-api.spec.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/sideProject/escherpad/eywa/src/github/github-api.spec.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/sideProject/escherpad/eywa/src/github/github-api.spec.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/sideProject/escherpad/eywa/src/github/github-api.spec.js" />
+      <jump line="22" column="0" filename="$USER_HOME$/sideProject/escherpad/eywa/src/github/github-api.spec.js" />
+      <jump line="30" column="0" filename="$USER_HOME$/sideProject/escherpad/eywa/src/github/github-api.spec.js" />
+      <jump line="41" column="0" filename="$USER_HOME$/sideProject/escherpad/eywa/src/github/github-api.spec.js" />
+      <jump line="49" column="0" filename="$USER_HOME$/sideProject/escherpad/eywa/src/github/github-api.spec.js" />
+      <jump line="65" column="0" filename="$USER_HOME$/sideProject/escherpad/eywa/src/github/github-api.spec.js" />
+      <jump line="79" column="0" filename="$USER_HOME$/sideProject/escherpad/eywa/src/github/github-api.spec.js" />
+      <jump line="87" column="0" filename="$USER_HOME$/sideProject/escherpad/eywa/src/github/github-api.spec.js" />
+      <jump line="92" column="0" filename="$USER_HOME$/sideProject/escherpad/eywa/src/github/github-api.spec.js" />
+      <jump line="101" column="0" filename="$USER_HOME$/sideProject/escherpad/eywa/src/github/github-api.spec.js" />
+      <jump line="153" column="21" filename="$USER_HOME$/sideProject/escherpad/eywa/src/github/github-api.spec.js" />
+      <jump line="109" column="0" filename="$USER_HOME$/sideProject/escherpad/eywa/src/github/github-api.spec.js" />
+      <jump line="122" column="0" filename="$USER_HOME$/sideProject/escherpad/eywa/src/github/github-api.spec.js" />
+      <jump line="151" column="0" filename="$USER_HOME$/sideProject/escherpad/eywa/src/github/github-api.spec.js" />
+      <jump line="161" column="0" filename="$USER_HOME$/sideProject/escherpad/eywa/src/github/github-api.spec.js" />
+      <jump line="174" column="0" filename="$USER_HOME$/sideProject/escherpad/eywa/src/github/github-api.spec.js" />
+      <jump line="156" column="46" filename="$USER_HOME$/sideProject/escherpad/eywa/src/github/github-api.spec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyhkYXRhKQo=</text>
+      <register name="&quot;" type="4">
+        <text>testPrivateRepo</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>testPrivateRepo</text>
       </register>
       <register name="/" type="4">
         <text>xit</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KGRhdGFbMF0uaWQpLnRvQmVEZWZpbmVkKCk7Cg==</text>
+      <register name="0" type="4">
+        <text>jam-world.github.io</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyhkYXRhKQo=</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IHRlc3RHaXRodWJDbGllbnRVc2VybmFtZSA9ICJ5b3UgZ2l0aHViIHVzZXJuYW1lIjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGdpdGh1YkNsaWVudFVzZXJuYW1lID0gInlvdSBnaXRodWIgdXNlcm5hbWUiOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyhkYXRhKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGphc21pbmUuREVGQVVMVF9USU1FT1VUX0lOVEVSVkFMPSAyMDAwOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGRhdGFbMF0pCg==</text>
+        <text encoding="base64">ICAgIGphc21pbmUuREVGQVVMVF9USU1FT1VUX0lOVEVSVkFMPSAyMDAwOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGRhdGEpCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCJoaSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGRhdGFbMF0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGRhdGEpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
