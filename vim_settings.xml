@@ -70,12 +70,12 @@
         <mark key="." line="10" column="40" />
         <mark key="^" line="10" column="47" />
       </file>
-      <file name="$USER_HOME$/sideProject/escherpad/eywa/src/github/github-api.spec.js" timestamp="1498893234344">
+      <file name="$USER_HOME$/sideProject/escherpad/eywa/src/github/github-api.spec.js" timestamp="1498894611206">
         <mark key="'" line="93" column="2" />
-        <mark key="[" line="156" column="41" />
-        <mark key="]" line="156" column="44" />
-        <mark key="^" line="156" column="44" />
-        <mark key="." line="156" column="44" />
+        <mark key="[" line="170" column="49" />
+        <mark key="]" line="171" column="20" />
+        <mark key="^" line="171" column="20" />
+        <mark key="." line="171" column="20" />
       </file>
       <file name="$USER_HOME$/sideProject/layout-components/src/Flex-row.example.js" timestamp="1496452002644">
         <mark key="'" line="23" column="0" />
@@ -217,12 +217,12 @@
       <file name="$USER_HOME$/myGitRepo/Direction_Generator/demo/src/InstructionPanel.js" timestamp="1496730487495">
         <mark key="'" line="8" column="8" />
       </file>
-      <file name="$USER_HOME$/sideProject/escherpad/eywa/src/github/github-api.js" timestamp="1498892640244">
+      <file name="$USER_HOME$/sideProject/escherpad/eywa/src/github/github-api.js" timestamp="1498894166897">
         <mark key="'" line="32" column="13" />
-        <mark key="[" line="215" column="45" />
-        <mark key="]" line="215" column="52" />
-        <mark key="." line="215" column="52" />
-        <mark key="^" line="215" column="52" />
+        <mark key="[" line="219" column="64" />
+        <mark key="]" line="219" column="65" />
+        <mark key="." line="219" column="65" />
+        <mark key="^" line="219" column="65" />
       </file>
       <file name="$USER_HOME$/sideProject/escherpad/test-luna-saga/src/lib/Selector.js" timestamp="1496457480175">
         <mark key="'" line="32" column="22" />
@@ -386,11 +386,11 @@
       <jump line="93" column="2" filename="$USER_HOME$/sideProject/escherpad/eywa/src/github/github-api.spec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Defined</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyhkYXRhKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>Defined</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>xit</text>
@@ -399,31 +399,31 @@
         <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KGRhdGFbMF0uaWQpLnRvQmVEZWZpbmVkKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGRhdGFbMF0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyhkYXRhKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGRhdGEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCJoaSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGphc21pbmUuREVGQVVMVF9USU1FT1VUX0lOVEVSVkFMPSAyMDAwOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRocm93IEVycm9yKCdkZWxldGUgZmFpbGVkJykK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGRhdGFbMF0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkb25lKCkK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGRhdGEpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHJlcy5vaykgewo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCJoaSIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlCg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -491,6 +491,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
