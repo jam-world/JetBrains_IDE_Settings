@@ -94,8 +94,8 @@
         <mark key="'" line="50" column="0" />
         <mark key="." line="90" column="150" />
       </file>
-      <file name="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/model.js" timestamp="1498961508500">
-        <mark key="'" line="19" column="16" />
+      <file name="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/model.js" timestamp="1498962248686">
+        <mark key="'" line="20" column="0" />
         <mark key="[" line="1" column="13" />
         <mark key="]" line="1" column="12" />
         <mark key="." line="1" column="12" />
@@ -114,9 +114,12 @@
       <file name="$USER_HOME$/sideProject/escherpad/gittor/src/components/account-list-view/AccountListItem.js" timestamp="1493684670003">
         <mark key="'" line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/services/github.js" timestamp="1498960601755">
+      <file name="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/services/github.js" timestamp="1498962285683">
         <mark key="'" line="16" column="0" />
-        <mark key="[" line="0" column="0" />
+        <mark key="[" line="37" column="17" />
+        <mark key="]" line="37" column="22" />
+        <mark key="." line="37" column="22" />
+        <mark key="^" line="37" column="22" />
       </file>
       <file name="$USER_HOME$/sideProject/escherpad/escherpad/desktop-app/src/App.js" timestamp="1493685861739">
         <mark key="'" line="4" column="23" />
@@ -302,7 +305,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/myGitRepo/Direction_Generator/demo/src/google_map.js" />
       <jump line="58" column="0" filename="$USER_HOME$/myGitRepo/Direction_Generator/demo/src/google_map.js" />
       <jump line="44" column="0" filename="$USER_HOME$/myGitRepo/Direction_Generator/demo/src/street_view.js" />
       <jump line="66" column="21" filename="$USER_HOME$/myGitRepo/Direction_Generator/demo/src/StreetView.js" />
@@ -402,10 +404,13 @@
       <jump line="35" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/model.js" />
       <jump line="19" column="24" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/view.js" />
       <jump line="19" column="16" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/model.js" />
+      <jump line="20" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/model.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2VnYUNvbm5lY3QoKQo=</text>
+      <register name="&quot;" type="8">
+        <text>*
+*
+*</text>
       </register>
       <register name="-" type="4">
         <text>:</text>
@@ -416,32 +421,34 @@
       <register name="0" type="4">
         <text encoding="base64">aW1wb3J0IHtHaXRIdWJBUEl9IGZyb20gIi4uL2V5d2Evc3JjL2luZGV4IjsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">c2VnYUNvbm5lY3QoKQo=</text>
+      <register name="1" type="8">
+        <text>*
+*
+*</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJoaSIpOwo=</text>
+        <text encoding="base64">ICAgICAqIH0qLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL2VzY2hlcnBhZC9leXdhLmdpdAo=</text>
+        <text encoding="base64">ICAgIC8vIC8qIHdoaWxlICh0cnVlKSB7Cg==</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">Ly8gCi8vIAovLyAKLy8gCi8vIAovLyAKLy8gCi8vIA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">c2VnYUNvbm5lY3QoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgZ2l0aHViQ2xpZW50VXNlcm5hbWUgYXMgdXNlcm5hbWUsCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJoaSIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IGdpdGh1YkNsaWVudFVzZXJuYW1lID0gImphbS13b3JsZCI7Cg==</text>
+        <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL2VzY2hlcnBhZC9leXdhLmdpdAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldCBwYXRoID0gIi8iCg==</text>
+      <register name="7" type="8">
+        <text encoding="base64">Ly8gCi8vIAovLyAKLy8gCi8vIAovLyAKLy8gCi8vIA==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxldCByZXBvID0gImphbS13b3JsZC5naXRodWIuaW8iCg==</text>
+        <text encoding="base64">ICAgZ2l0aHViQ2xpZW50VXNlcm5hbWUgYXMgdXNlcm5hbWUsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IHRlc3RHaXRodWJDbGllbnRVc2VybmFtZSA9ICJ5b3UgZ2l0aHViIHVzZXJuYW1lIjsK</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGdpdGh1YkNsaWVudFVzZXJuYW1lID0gImphbS13b3JsZCI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
