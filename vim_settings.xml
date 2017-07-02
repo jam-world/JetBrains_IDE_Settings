@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/test.config.js" timestamp="1498971005535">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="45" />
+        <mark key="^" line="12" column="45" />
+        <mark key="." line="12" column="45" />
+      </file>
       <file name="$USER_HOME$/sideProject/escherpad/gittor/src/modules/github.js" timestamp="1493081032259">
         <mark key="[" line="7" column="52" />
         <mark key="]" line="7" column="77" />
@@ -100,11 +106,11 @@
         <mark key="'" line="50" column="0" />
         <mark key="." line="90" column="150" />
       </file>
-      <file name="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/model.js" timestamp="1498969583419">
-        <mark key="[" line="42" column="15" />
-        <mark key="]" line="42" column="25" />
-        <mark key="." line="42" column="25" />
-        <mark key="^" line="42" column="25" />
+      <file name="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/model.js" timestamp="1498970636523">
+        <mark key="[" line="6" column="39" />
+        <mark key="]" line="6" column="39" />
+        <mark key="." line="6" column="39" />
+        <mark key="^" line="6" column="39" />
       </file>
       <file name="$USER_HOME$/sideProject/escherpad/eywa/dist/github/github-api.spec.js" timestamp="1498888175016">
         <mark key="'" line="140" column="0" />
@@ -119,12 +125,11 @@
       <file name="$USER_HOME$/sideProject/escherpad/gittor/src/components/account-list-view/AccountListItem.js" timestamp="1493684670003">
         <mark key="'" line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/services/github.js" timestamp="1498969497886">
-        <mark key="'" line="53" column="71" />
-        <mark key="[" line="50" column="16" />
-        <mark key="]" line="50" column="16" />
-        <mark key="." line="50" column="16" />
-        <mark key="^" line="50" column="16" />
+      <file name="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/services/github.js" timestamp="1498971707515">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/sideProject/escherpad/escherpad/desktop-app/src/App.js" timestamp="1493685861739">
         <mark key="'" line="4" column="23" />
@@ -139,6 +144,12 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
         <mark key="^" line="32" column="42" />
+      </file>
+      <file name="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/search.js" timestamp="1498970892121">
+        <mark key="'" line="14" column="11" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/index.js" timestamp="1498968359403">
         <mark key="[" line="3" column="0" />
@@ -200,8 +211,8 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="44" />
       </file>
-      <file name="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/dataSchema.js" timestamp="1498966128601">
-        <mark key="'" line="18" column="19" />
+      <file name="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/dataSchema.js" timestamp="1498971607633">
+        <mark key="'" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/post.js" timestamp="1496539411088">
         <mark key="[" line="5" column="0" />
@@ -327,10 +338,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="8" filename="$USER_HOME$/myGitRepo/Direction_Generator/demo/src/StreetView.js" />
-      <jump line="55" column="0" filename="$USER_HOME$/myGitRepo/Direction_Generator/demo/src/GoogleMapView.js" />
-      <jump line="79" column="4" filename="$USER_HOME$/myGitRepo/Direction_Generator/demo/src/StreetView.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/myGitRepo/Direction_Generator/demo/src/StreetView.js" />
       <jump line="77" column="0" filename="$USER_HOME$/myGitRepo/Direction_Generator/demo/src/StreetView.js" />
       <jump line="57" column="38" filename="$USER_HOME$/myGitRepo/Direction_Generator/demo/src/StreetView.js" />
       <jump line="19" column="0" filename="$USER_HOME$/myGitRepo/Direction_Generator/demo/src/MainView.js" />
@@ -426,14 +433,18 @@
       <jump line="45" column="13" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/services/github.js" />
       <jump line="51" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/services/github.js" />
       <jump line="7" column="37" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/services/github.js" />
-      <jump line="53" column="71" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/services/github.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/dataSchema.js" />
+      <jump line="14" column="11" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/search.js" />
+      <jump line="53" column="29" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/services/github.js" />
+      <jump line="32" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/services/github.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/services/github.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{...state, ...action.data}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>{...state, ...action.data}</text>
+        <text encoding="base64">cmVzcG9uc2Ug</text>
       </register>
       <register name="/" type="4">
         <text>eywa</text>
@@ -442,31 +453,31 @@
         <text encoding="base64">IDxkaXYga2V5PXtuYW1lfSBjbGFzc05hbWU9ImZpbGUtaXRlbS1ub3JtYWwtdmlldyI+e25hbWV9PC9kaXY+Ow==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBsZXQgcmVwb05hbWVzID0ge307Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBkYXRhLmZvckVhY2goKG1ldGFJbmZvKSA9PiByZXBvTmFtZXNbbWV0YUluZm8uaWRdID0gbWV0YUluZm8pOwo=</text>
+        <text encoding="base64">aW1wb3J0IHtzdG9yZSR9IGZyb20gIi4uL21vZGVsL21vZGVsIjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICB0aHJvdyBFcnJvcignaGFoYWgnKQogICAgICAgIH0K</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICBsZXQgcmVwb05hbWVzID0gZGF0YS5yZWR1Y2UoKGRpY3QsIG1ldGFJbmZvKSA9PiB7CiAgICAgICAgICAgICAgICAgIHJldHVybiBkaWN0W21ldGFJbmZvLmlkXSA9IG1ldGFJbmZvOwogICAgICAgICAgICAgIH0sIHt9KTs=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiZ2V0IHRoZSByZXBvIG5hbWVzIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBzdG9yZSQuZGlzcGF0Y2goe30pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHtpZDogbWV0YUluZm8uaWQsIGZ1bGxfbmFtZTogbWV0YUluZm8uZnVsbF9uYW1lfTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgcmVwb05hbWVzID0gZGF0YS5tYXAoKG1ldGFJbmZvKSA9PiB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRpc3BhdGNoCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyhkaXNwYXRjaCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
