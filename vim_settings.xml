@@ -3,9 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/test.config.js" timestamp="1498971005535">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="45" />
+      <file name="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/test.config.js" timestamp="1499482469477">
+        <mark key="[" line="3" column="30" />
+        <mark key="]" line="3" column="51" />
         <mark key="^" line="12" column="45" />
         <mark key="." line="12" column="45" />
       </file>
@@ -126,11 +126,12 @@
       <file name="$USER_HOME$/sideProject/escherpad/gittor/src/components/account-list-view/AccountListItem.js" timestamp="1493684670003">
         <mark key="'" line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/services/github.js" timestamp="1498971707515">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/services/github.js" timestamp="1499482882979">
+        <mark key="'" line="57" column="0" />
+        <mark key="[" line="58" column="38" />
+        <mark key="]" line="58" column="50" />
+        <mark key="." line="58" column="50" />
+        <mark key="^" line="58" column="50" />
       </file>
       <file name="$USER_HOME$/sideProject/escherpad/escherpad/desktop-app/src/App.js" timestamp="1493685861739">
         <mark key="'" line="4" column="23" />
@@ -203,12 +204,12 @@
         <mark key="." line="8" column="5" />
         <mark key="^" line="8" column="5" />
       </file>
-      <file name="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/services/dropbox.js" timestamp="1499481661783">
-        <mark key="'" line="14" column="26" />
-        <mark key="[" line="38" column="16" />
-        <mark key="]" line="38" column="28" />
-        <mark key="^" line="38" column="28" />
-        <mark key="." line="38" column="28" />
+      <file name="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/services/dropbox.js" timestamp="1499482744030">
+        <mark key="'" line="2" column="7" />
+        <mark key="[" line="45" column="15" />
+        <mark key="]" line="45" column="15" />
+        <mark key="^" line="45" column="15" />
+        <mark key="." line="45" column="15" />
       </file>
       <file name="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/dataSchema.js" timestamp="1499481720868">
         <mark key="'" line="47" column="1" />
@@ -341,10 +342,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="6" filename="$USER_HOME$/myGitRepo/Direction_Generator/demo/src/InstructionPanel.js" />
-      <jump line="28" column="0" filename="$USER_HOME$/myGitRepo/Direction_Generator/demo/src/InstructionPanel.js" />
-      <jump line="8" column="8" filename="$USER_HOME$/myGitRepo/Direction_Generator/demo/src/InstructionPanel.js" />
-      <jump line="15" column="0" filename="$USER_HOME$/myGitRepo/Direction_Generator/demo/src/GoogleMapView.js" />
       <jump line="7" column="0" filename="$USER_HOME$/myGitRepo/Direction_Generator/demo/src/GoogleMapView.js" />
       <jump line="54" column="0" filename="$USER_HOME$/myGitRepo/Direction_Generator/demo/src/GoogleMapView.js" />
       <jump line="105" column="4" filename="$USER_HOME$/sideProject/escherpad/eywa/src/github/github-api.spec.js" />
@@ -441,46 +438,66 @@
       <jump line="14" column="26" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/services/dropbox.js" />
       <jump line="14" column="1" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/dataSchema.js" />
       <jump line="47" column="1" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/model/dataSchema.js" />
+      <jump line="19" column="25" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/services/github.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/services/github.js" />
+      <jump line="59" column="0" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/services/github.js" />
+      <jump line="2" column="7" filename="$USER_HOME$/sideProject/escherpad/escherpad/file-browser/src/services/dropbox.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>A</text>
+        <text encoding="base64">bGV0IGdoID0gbmV3IEdpdEh1YkFQSShjbGllbnRJZCk7CmdoLnVwZGF0ZUFjY2Vzc1Rva2VuKGFjY2Vzc1Rva2VuKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>A</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>eywa</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IDxkaXYga2V5PXtuYW1lfSBjbGFzc05hbWU9ImZpbGUtaXRlbS1ub3JtYWwtdmlldyI+e25hbWV9PC9kaXY+Ow==</text>
+        <text>// test only
+const testClientId : string = &quot;b4666a3b2ac86229f0c7&quot;;
+const testAccessToken : string = &quot;f7ccfee5aa99defa67b713dea00f739d0be5939c&quot;;
+
+export function githubHelper() {
+    return {
+        $key: '1234',
+        client_id: testClientId,
+        access_token: testAccessToken,
+        view: {
+            user_id: 'test userId',
+            username: 'jam-world',
+            email: 'chencha92111@gmail.com',
+            name: 'jamworld'
+        }
+    }
+}</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">bGV0IGdoID0gbmV3IEdpdEh1YkFQSShjbGllbnRJZCk7CmdoLnVwZGF0ZUFjY2Vzc1Rva2VuKGFjY2Vzc1Rva2VuKTsK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGFjY291bnRIZWxwZXIoKSB7CiAgICAKfQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHtzdG9yZSR9IGZyb20gIi4uL21vZGVsL21vZGVsIjsK</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICB0aHJvdyBFcnJvcignaGFoYWgnKQogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiZ2V0IHRoZSByZXBvIG5hbWVzIik7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtzdG9yZSR9IGZyb20gIi4uL21vZGVsL21vZGVsIjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICB0aHJvdyBFcnJvcignaGFoYWgnKQogICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHtpZDogbWV0YUluZm8uaWQsIGZ1bGxfbmFtZTogbWV0YUluZm8uZnVsbF9uYW1lfTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiZ2V0IHRoZSByZXBvIG5hbWVzIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgcmVwb05hbWVzID0gZGF0YS5tYXAoKG1ldGFJbmZvKSA9PiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
